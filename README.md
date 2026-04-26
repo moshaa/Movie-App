@@ -5,7 +5,7 @@
 
 A modern and responsive movie web app built using HTML, CSS, and JavaScript.
 
-🔗 Live Demo: https://moshaa.github.io/movie-app/
+🔗 Live Demo: https://moshaa.github.io/Movie-App/
 
 ---
 
@@ -14,9 +14,7 @@ A modern and responsive movie web app built using HTML, CSS, and JavaScript.
 - 🔍 Search movies in real-time
 - ⭐ Movie rating with color indicator
 - 🎬 Hover to see movie description
-- ❌ Clear search button inside input
 - ⚡ Smooth animations
-- ⏳ Skeleton loading effect
 - 📱 Fully responsive design
 
 ---
